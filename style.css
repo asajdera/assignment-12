@@ -1,0 +1,48 @@
+*{
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+}
+
+body{
+	background-color: #FAFAFA;
+}
+
+h2{
+	font-size:3.5vw;
+	margin: 0;
+	margin-bottom: 1%
+}
+
+.cityContainer{
+	display: inline-block;
+	position: relative;
+	margin-left:2%;
+	min-width:30%;
+	margin-bottom: 10%;
+}
+
+
+button{
+	border:none;
+	font-size:1.3vw;
+	margin-bottom: 5%;
+	background-color: #E9E9E9;
+	padding:.5vw;
+	width: 100%;
+	}
+
+p{
+	font-size:1.6vw;
+	display: none;
+	margin:0;
+}
+
+
+.city{
+	cursor: pointer;
+}
+
+.buttonClicked{
+ 	background-color: darkgray;
+}
+
